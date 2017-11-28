@@ -1,2 +1,3 @@
 this is first example for git 
-thanks !
+thanks you!
+i'm trying to do execise for git !
